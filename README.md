@@ -50,6 +50,8 @@
 
 ## Screenshot
 
+![Find Recipe Edamam](https://github.com/YTasheva/Find-Recipe-Edamam/blob/main/Images/Screenshot%20.png)
+
 
 
 ## Links
@@ -67,7 +69,7 @@
 
 2. [ ] **Install Dependencies:**
 
-   - `pip install tkinter`, `pip install requests`, `pip install pillow` 
+   - `pip install tkinter`, `pip install requests`, `python -m pip install pillow` 
    
 3. [ ] **Generate Edamam API Key**
 
