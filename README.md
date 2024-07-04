@@ -26,7 +26,7 @@
 
 ## Overview
 
-- A recipe search program that uses Python and the Edamam Recipe Search API to find and print recipes according to the user's chosen ingredient(s) and other search criteria, including preferred cuisine type (e.g. British, Italian, Indian), dietary requirements (e.g. vegan, vegetarian, gluten-free), and maximum calories.
+- A recipe search app that uses Python and the Edamam Recipe Search API to find and print recipes according to the user's chosen ingredient(s) and other search criteria, including preferred cuisine type (e.g. British, Italian, Indian), dietary requirements (e.g. vegan, vegetarian, gluten-free), and maximum calories.
 
 - Project for the Code First Girls Python Programming course.
 
