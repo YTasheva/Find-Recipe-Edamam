@@ -35,7 +35,7 @@ Requirement: Sign up at Edamam API for app id and key.
 
 ## The Challenge
 
-- Sign up for the Edamam API key and id https://developer.edamam.com/edamam-docs-recipe-api
+- Sign up for the [Edamam API key and id](https://developer.edamam.com/edamam-docs-recipe-api)
 
 - Ask the user to enter a recipe that they want to search for
 - Create a function that makes a request to the Edamam API with the required ingredient as part of the search query and returns the response
@@ -53,7 +53,7 @@ Requirement: Sign up at Edamam API for app id and key.
 
 ## Screenshot
 
-![Screenshot]
+
 
 ## Links
 
