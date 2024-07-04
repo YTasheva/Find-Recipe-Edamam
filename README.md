@@ -12,8 +12,8 @@
   ## Table of contents
 
 - [Overview](#overview)
- - [The Challenge](#the-challenge)
- - [Technologies Used](#technologies-used)
+  - [The Challenge](#the-challenge)
+  - [Technologies Used](#technologies-used)
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Installation](#installation)
