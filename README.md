@@ -30,9 +30,6 @@
 
 - Project for the Code First Girls Python Programming course.
 
-Requirement: Sign up at Edamam API for app id and key.
-
-
 ### The Challenge
 
 - Sign up for the [Edamam API key and id](https://developer.edamam.com/edamam-docs-recipe-api)
