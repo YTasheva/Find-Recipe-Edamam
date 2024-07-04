@@ -12,8 +12,8 @@
   ## Table of contents
 
 - [Overview](#overview)
-- [The Challenge](#the-challenge)
-- [Technologies Used](#technologies-used)
+ - [The Challenge](#the-challenge)
+ - [Technologies Used](#technologies-used)
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Installation](#installation)
@@ -33,7 +33,7 @@
 Requirement: Sign up at Edamam API for app id and key.
 
 
-## The Challenge
+### The Challenge
 
 - Sign up for the [Edamam API key and id](https://developer.edamam.com/edamam-docs-recipe-api)
 
@@ -41,7 +41,7 @@ Requirement: Sign up at Edamam API for app id and key.
 - Create a function that makes a request to the Edamam API with the required ingredient as part of the search query and returns the response
 - Get the returned recipes from the API response
 
-## Technologies Used
+### Technologies Used
 
   - [ ] Edamam Recipe Search API
   - [ ] Python
